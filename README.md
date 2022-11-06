@@ -1,4 +1,4 @@
-# todofinal
+# TodoApp with Flutter and Bloc
 
 A new Flutter project.
 
